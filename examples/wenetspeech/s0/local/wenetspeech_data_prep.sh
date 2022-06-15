@@ -22,7 +22,7 @@ set -o pipefail
 
 stage=1
 prefix=
-train_subset=L
+train_subset=S
 
 . ./tools/parse_options.sh || exit 1;
 
